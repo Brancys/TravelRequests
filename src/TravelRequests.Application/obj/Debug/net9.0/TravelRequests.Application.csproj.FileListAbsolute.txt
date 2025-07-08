@@ -1,0 +1,16 @@
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\bin\Debug\net9.0\TravelRequests.Application.deps.json
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\bin\Debug\net9.0\TravelRequests.Application.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\bin\Debug\net9.0\TravelRequests.Application.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\bin\Debug\net9.0\TravelRequests.Domain.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\bin\Debug\net9.0\TravelRequests.Domain.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.csproj.AssemblyReference.cache
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.AssemblyInfoInputs.cache
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.AssemblyInfo.cs
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.csproj.CoreCompileInputs.cache
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.sourcelink.json
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRe.DA04D6A9.Up2Date
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\refint\TravelRequests.Application.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\TravelRequests.Application.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Application\obj\Debug\net9.0\ref\TravelRequests.Application.dll

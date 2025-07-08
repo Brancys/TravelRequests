@@ -1,0 +1,12 @@
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\bin\Debug\net9.0\TravelRequests.Domain.deps.json
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\bin\Debug\net9.0\TravelRequests.Domain.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\bin\Debug\net9.0\TravelRequests.Domain.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.AssemblyInfoInputs.cache
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.AssemblyInfo.cs
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.csproj.CoreCompileInputs.cache
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.sourcelink.json
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\refint\TravelRequests.Domain.dll
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\TravelRequests.Domain.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Domain\obj\Debug\net9.0\ref\TravelRequests.Domain.dll

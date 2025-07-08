@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "05OOY09sc5o=",
+  "dgSpecHash": "Fx9/yUP8my0=",
   "success": true,
   "projectFilePath": "D:\\desarrollo\\backend-dev\\TravelRequests\\src\\TravelRequests.Application\\TravelRequests.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\-Branx-\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
