@@ -1,3 +1,5 @@
+using TravelRequests.Domain.Enums;
+
 namespace TravelRequests.Domain.Entities;
 
 public class TravelRequest
@@ -8,9 +10,8 @@ public class TravelRequest
     public DateTime DepartureDate { get; set; }
     public DateTime ReturnDate { get; set; }
     public string Justification { get; set; } = null!;
-    public string Status { get; set; } = "Pendiente"; // "Pendiente", "Aprobada", "Rechazada"
+    public RequestStatus Status { get; set; } = RequestStatus.Pendiente;
 
-    // Relaciones
     public Guid UserId { get; set; }
     public User? User { get; set; }
 }
