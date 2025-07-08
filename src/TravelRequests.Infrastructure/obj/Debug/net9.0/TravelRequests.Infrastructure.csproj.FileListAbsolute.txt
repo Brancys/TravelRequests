@@ -2,8 +2,10 @@ D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\D
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Infrastructure.runtimeconfig.json
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Infrastructure.dll
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Infrastructure.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Application.dll
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Domain.dll
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Domain.pdb
+D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\bin\Debug\net9.0\TravelRequests.Application.pdb
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\obj\Debug\net9.0\TravelRequests.Infrastructure.csproj.AssemblyReference.cache
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\obj\Debug\net9.0\TravelRequests.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\desarrollo\backend-dev\TravelRequests\src\TravelRequests.Infrastructure\obj\Debug\net9.0\TravelRequests.Infrastructure.AssemblyInfoInputs.cache

@@ -9,6 +9,7 @@ D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\ne
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\TravelRequests.Tests.runtimeconfig.json
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\TravelRequests.Tests.dll
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\TravelRequests.Tests.pdb
+D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\BCrypt.Net-Next.dll
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\desarrollo\backend-dev\TravelRequests\tests\TravelRequests.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
