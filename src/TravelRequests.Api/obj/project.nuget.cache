@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LIJ9hZ8m3Y=",
+  "success": true,
+  "projectFilePath": "D:\\desarrollo\\backend-dev\\TravelRequests\\src\\TravelRequests.Api\\TravelRequests.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\-Branx-\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\-Branx-\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
