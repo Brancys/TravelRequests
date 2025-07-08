@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelRequests.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f506e3663cd3afe2ba0ad648cdbf57e306cb33c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc1d3c28b502fc503e30d35946443ead7b9bfce")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelRequests.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelRequests.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
